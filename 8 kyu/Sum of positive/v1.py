@@ -22,4 +22,4 @@ test3 = [-2, -3, -4, -5, 1]
 
 print(positive_sum(test)) # 16
 print(positive_sum(test2)) # 61
-print(positive_sum(test3)) # 1I 
+print(positive_sum(test3)) # 1
